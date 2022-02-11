@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300;400;500&family=Roboto:wght@300&display=swap');
+
+*{
+  font-family: 'Mohave', sans-serif;
+}
+
+body {
+  background-color: #e9f5ff;
+}
+
+
+.title{
+  color: #00135b;
+}
+
+.background-white{
+  display: block;
+  padding: .75rem;
+  border-radius: .5rem;
+  background-color: white;
+  filter: drop-shadow(1px 1px 3px rgba(0,0,0, .200))
+}
